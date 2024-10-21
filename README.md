@@ -7,10 +7,13 @@ Developed an intelligent system designed to assist in the meticulous task of ide
 
 ## Features
 <!--List the features of the project as shown below-->
-•  Fast Processing: YOLOv8 offers real-time detection, speeding up chromosome analysis.
-•  High Accuracy: It ensures precise detection and classification of individual chromosomes.
-•  End-to-End Efficiency: Detects and classifies chromosomes in one step, streamlining the process.
-•  Flexible and Scalable: Easily adaptable to different chromosome datasets and applications.
+*  Fast Processing: YOLOv8 offers real-time detection, speeding up chromosome analysis.
+
+*  High Accuracy: It ensures precise detection and classification of individual chromosomes.
+
+*  End-to-End Efficiency: Detects and classifies chromosomes in one step, streamlining the process.
+  
+*  Flexible and Scalable: Easily adaptable to different chromosome datasets and applications.
 
 
 ## Requirements
@@ -44,19 +47,19 @@ This system offers notable advantages, including enhanced speed, significantly r
 This project serves as a foundation for future developments in expanding the system to detect and classify specific chromosome abnormalities such as duplications, deletions, and translocations, aiding in the diagnosis of genetic disorders.
 
 ## Articles published / References
-1. M. S. Al-Kharraz, L. A. Elrefaei, and M. A. Fadel, "Automated system for chromosome karyotyping to recognize the most common numerical abnormalities using deep learning," IEEE Access, vol. 8, pp. 157727-157747, Sep. 2020. [Online]. Available: https://doi.org/10.1109/ACCESS.2020.3019937.
+1. M. S. Al-Kharraz, L. A. Elrefaei, and M. A. Fadel, "Automated system for chromosome karyotyping to recognize the most common numerical abnormalities using deep learning," IEEE Access, vol. 8, pp. 157727-157747, Sep. 2020.
 
 2. J. Anwar et al., "Chromosome classification and defect detection using Deep Convolutional Neural Networks", IEEE Access, vol. 9, pp. 43216-43224, Feb. 2021.
 
-3. R. Gupta et al., "Automated chromosome classification using ResNet-based deep learning approach", Medical Imaging 2021: Digital Pathology, vol. 12032, 2021, doi: 10.1117/12.2618910.
+3. R. Gupta et al., "Automated chromosome classification using ResNet-based deep learning approach", Medical Imaging 2021: Digital Pathology, vol. 12032, 2021.
 
 4. N. Sinha et al., "Karyotyping using AlexNet and data augmentation for chromosome defect detection", Pattern Recognition Letters, vol. 146, no. 5, pp. 202-209, Jun. 2022.
 
 5. M. Kaur and R. Kumar, "YOLOv3-based method for real-time karyotype analysis and chromosome abnormality detection", Computers in Biology and Medicine, vol. 146, p. 105716, Dec. 2022.
 
-6. Z. Shamsi et al., "Automated Deep Aberration Detection from Chromosome Karyotype Images," arXiv, vol. 2211.14312v1, Nov. 2022. [Online]. Available: https://arxiv.org/abs/2211.14312.
+6. Z. Shamsi et al., "Automated Deep Aberration Detection from Chromosome Karyotype Images," arXiv, vol. 2211.14312v1, Nov. 2022.
 
-7. D. Menaka and S. G. Vaidyanathan, "Chromenet: A CNN architecture with comparison of optimizers for classification of human chromosome images," Multidimensional Systems and Signal Processing, vol. 33, no. 3, pp. 747-768, Mar. 2022. [Online]. Available: https://doi.org/10.1007/s11045-022-00819-x.
+7. D. Menaka and S. G. Vaidyanathan, "Chromenet: A CNN architecture with comparison of optimizers for classification of human chromosome images," Multidimensional Systems and Signal Processing, vol. 33, no. 3, pp. 747-768, Mar. 2022.
 
 8. L. Zhou et al., "Chromosome anomaly detection using a hybrid deep learning model combining ResNet and YOLOv4", Journal of Biomedical Informatics, vol. 134, no. 7, p. 104009, Aug. 2023.
 
